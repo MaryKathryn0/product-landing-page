@@ -11,10 +11,18 @@ h2 {
     padding-top: 20px;
 }
 
+.container {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+}
 body {
-    /* background-image: url(https://media.istockphoto.com/videos/vintage-alien-invasion-flying-saucer-abducts-a-woman-video-id1125880612?s=640x640);
-    background-repeat: no-repeat;
-    width: 100%; */
+
     background-color: antiquewhite;
 }
 
