@@ -5,7 +5,7 @@
 
 h2 {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 body {
@@ -13,4 +13,9 @@ body {
     background-repeat: no-repeat;
     width: 100%; */
     background-color: antiquewhite;
+}
+
+h3 {
+
+    padding-top: 10px;
 }
