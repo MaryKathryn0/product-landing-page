@@ -2,7 +2,10 @@
     padding-top: 6px;
     padding-bottom: 6px;
 }
-
+a {
+    color: #030303;
+    font-weight: bold;
+}
 h1 {
     padding-top: 10px;
 }
