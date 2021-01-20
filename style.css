@@ -10,6 +10,8 @@ h2 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-weight:bold;
+    text-transform:uppercase;
 }
 
 .container {
@@ -21,6 +23,8 @@ h2 {
 .card {
     display: flex;
     justify-content: center;
+    background-color: #2f353b;
+    color: white;
 }
 body {
 
